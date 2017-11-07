@@ -1,0 +1,9 @@
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\bin\Debug\netcoreapp1.1\Test1.deps.json
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\bin\Debug\netcoreapp1.1\Test1.runtimeconfig.json
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\bin\Debug\netcoreapp1.1\Test1.runtimeconfig.dev.json
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\bin\Debug\netcoreapp1.1\Test1.dll
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\bin\Debug\netcoreapp1.1\Test1.pdb
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\obj\Debug\netcoreapp1.1\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\obj\Debug\netcoreapp1.1\Test1.AssemblyInfo.cs
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\obj\Debug\netcoreapp1.1\Test1.dll
+C:\Users\Kogre\Desktop\TestApp\Test1\Test1\obj\Debug\netcoreapp1.1\Test1.pdb

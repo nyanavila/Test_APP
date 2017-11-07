@@ -1,0 +1,11 @@
+C:\Users\Kogre\Desktop\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+C:\Users\Kogre\Desktop\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+C:\Users\Kogre\Desktop\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+C:\Users\Kogre\Desktop\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\Kogre\Desktop\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\Kogre\Desktop\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache

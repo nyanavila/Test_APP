@@ -1,0 +1,10 @@
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\bin\Debug\netcoreapp1.1\Accounting.deps.json
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\bin\Debug\netcoreapp1.1\Accounting.runtimeconfig.json
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\bin\Debug\netcoreapp1.1\Accounting.runtimeconfig.dev.json
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\bin\Debug\netcoreapp1.1\Accounting.dll
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\bin\Debug\netcoreapp1.1\Accounting.pdb
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\obj\Debug\netcoreapp1.1\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\obj\Debug\netcoreapp1.1\Accounting.AssemblyInfo.cs
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\obj\Debug\netcoreapp1.1\Accounting.dll
+C:\Users\Kogre\Desktop\TestApp\Accounting\Accounting\obj\Debug\netcoreapp1.1\Accounting.pdb
